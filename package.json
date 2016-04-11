@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/doctyper/gulp-modernizr",
   "dependencies": {
-    "customizr": "^1.0.0-alpha",
+    "customizr": "bolasblack/customizr#4efa922d91afa4ae4aa63d269621d088a374fd23",
     "grunt-legacy-log": "~0.1.1",
     "gulp-util": "~2.2.10",
     "through2": "~0.4.0"
